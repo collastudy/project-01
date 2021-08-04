@@ -2,13 +2,13 @@
 
 ### TEAM-COLLA
 
-#### first runner : jonguk[https://github.com/ukknown]
+#### first runner : huiwon[https://github.com/hu1won]
 
-#### second runner : huiwon[https://github.com/hu1won]
+#### second runner : chunghui[https://github.com/choonghee123]
 
-#### third runner : chanul[https://github.com/char-null]
+#### third runner : jonguk[https://github.com/ukknown]
 
-#### fourth runner : chunghui[https://github.com/choonghee123]
+#### fourth runner : chanul[https://github.com/char-null]
 
 1. Web View first-Project with REACT [https://github.com/collastudy/COLLA-project-01]
 
