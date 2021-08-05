@@ -12,4 +12,6 @@
 
 1. Web View first-Project with REACT [https://github.com/collastudy/COLLA-project-01]
 
+총 기간 : 2021-08-04 ~
+
 # COLLA-project-01
