@@ -3,7 +3,7 @@
 ### TEAM-COLLA
 
 #### first runner : huiwon[https://github.com/hu1won]
-2021/08/04 ~ 08/05 - HTML, CSS Main 틀 / MAIN, SERVICE, MEMBER, GALLERY, CALENDAR, ETC, CONTACT 메뉴 구현 등
+###### 2021/08/04 ~ 08/05 - HTML, CSS Main 틀 / MAIN, SERVICE, MEMBER, GALLERY, CALENDAR, ETC, CONTACT 메뉴 구현 등
 
 #### second runner : chunghui[https://github.com/choonghee123]
 
