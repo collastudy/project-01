@@ -3,9 +3,7 @@ import "./App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';// bootstrap 모듈을 설치하고 임포트 해준다. npm install --save reactstrap bootstrap
 import { faCheckSquare, faSpinner } from "@fortawesome/free-solid-svg-icons";//$ npm i @fortawesome/react-fontawesome, $ npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons
 import { faSquare } from "@fortawesome/free-regular-svg-icons"; //$ npm i @fortawesome/fontawesome-svg-core
-// import OwlCarousel from 'react-owl-carousel';  //npm install react-owl-carousel --save  
-// import 'owl.carousel/dist/assets/owl.carousel.css';  //npm install react-owl-carousel2
-// import 'owl.carousel/dist/assets/owl.theme.default.css';  오류남 시발
+
 
 
 function App() {
@@ -16,14 +14,7 @@ function App() {
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {/* css */}
   <link rel="stylesheet" href="css/bootstrap.min.css" />
-  {/* <link rel="stylesheet" href="css/ionicons.min.css"> */}
   <link rel="stylesheet" href="css/font-awesome.min.css" />
-  <link rel="stylesheet" href="css/owl.carousel.css" />
-  <link rel="stylesheet" href="css/owl.theme.css" />
-  <link rel="stylesheet" href="css/owl.transitions.css" />
-  <link rel="stylesheet" href="css/animate.css" />
-  <link rel="stylesheet" href="js/nivo-lightbox/nivo-lightbox.css" />
-  <link rel="stylesheet" href="js/nivo-lightbox/nivo-lightbox-theme.css" />
   <link rel="stylesheet" href="css/custom.css" />
   {/* js */}
   {/* ****************************** Preloader ************************** */}
@@ -190,7 +181,7 @@ function App() {
         <div className="row">
           <div className="col-md-3 col-sm-6">
             <div className="meet-item">
-              <img src="img/member1.png" alt="meet1" />
+              <img src="src/img/member1.PNG" alt="meet1" />
               <div className="text-center">
                 <h4>HUIWON</h4>
                 <p>
