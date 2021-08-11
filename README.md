@@ -7,7 +7,7 @@ COLLA의 첫번째 프로젝트 입니다.
 ###### 2021/08/04 ~ 08/05 - HTML, CSS Main 틀 / MAIN, SERVICE, MEMBER, GALLERY, CALENDAR, ETC, CONTACT 메뉴 구현 등
 
 #### second runner : chunghui[https://github.com/choonghee123]
-###### 2021/08/06 ~ 08/12
+###### 2021/08/06 ~ 08/12 - 
 
 #### third runner : jonguk[https://github.com/ukknown]
 
