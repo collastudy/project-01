@@ -66,6 +66,11 @@ const Nav = () => {
               </Link>
             </li>
             <li className='nav-item'>
+              <Link target='Gallery' classes='nav-link'>
+                Gallery
+              </Link>
+            </li>
+            <li className='nav-item'>
               <Link target='contact' classes='nav-link'>
                 Contact
               </Link>
