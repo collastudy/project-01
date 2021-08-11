@@ -8,11 +8,11 @@ const topBar = () => {
           <div className='d-flex pt-2 pb-2'>
             <div className='d-flex align-item-center mr-3'>
               <i className='fas fa-phone-alt mr-2' />
-              <small>+213 (0) 123 456 789</small>
+              <small>+82 (0) 10 3334 4585</small>
             </div>
             <div className='d-flex align-item-center'>
               <i className='fas fa-envelope mr-2' />
-              <small>contact@email.com</small>
+              <small>colla@gmail.com</small>
             </div>
           </div>
           <div className='d-flex pt-2 pb-2'>

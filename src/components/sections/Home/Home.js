@@ -13,16 +13,15 @@ const home = () => {
           style={{ backgroundImage: `url(${bgImage})` }}
         >
           <div className='intro container text-center text-light'>
-            <h1 className='title'>WELCOME</h1>
+            <h1 className='title'>COLLA</h1>
             <h2 className='sub-title mb-4'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-              laborum minus molestiae.
+              This is the first project of COLLA to study React and TypScript to create a website and introduce a new algorithm.
             </h2>
             <Link target='about' classes='btn btn-primary rounded-0 mr-2'>
-              Learn More
+              Members
             </Link>
             <Link target='contact' classes='btn btn-light text-dark rounded-0'>
-              Contact Us
+              Main stack
             </Link>
           </div>
         </div>

@@ -37,13 +37,13 @@ const footer = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link target='about'>About</Link>
+                  <Link target='about'>Members</Link>
                 </li>
                 <li>
                   <Link target='services'>Services</Link>
                 </li>
                 <li>
-                  <Link target='blog'>Blog</Link>
+                  <Link target='blog'>Calendar</Link>
                 </li>
                 <li>
                   <Link target='contact'>Contact</Link>

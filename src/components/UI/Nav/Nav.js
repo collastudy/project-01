@@ -23,7 +23,7 @@ const Nav = () => {
     <nav className={`navbar navbar-expand-md bg-light ${navClass}`}>
       <div className='container'>
         <a className='navbar-brand' href='!#'>
-          <span>Root</span>
+          <span>COLLA</span>
           <i className='fas fa-circle ml-1' />
         </a>
         <div
@@ -52,7 +52,7 @@ const Nav = () => {
             </li>
             <li className='nav-item'>
               <Link target='about' classes='nav-link'>
-                About
+                Member
               </Link>
             </li>
             <li className='nav-item'>
@@ -62,7 +62,7 @@ const Nav = () => {
             </li>
             <li className='nav-item'>
               <Link target='blog' classes='nav-link'>
-                Blog
+                Calendar
               </Link>
             </li>
             <li className='nav-item'>
