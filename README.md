@@ -10,6 +10,7 @@ COLLA의 첫번째 프로젝트 입니다.
 ###### 2021/08/06 ~ 08/12 - 
 
 #### third runner : jonguk[https://github.com/ukknown]
+###### 2021/08/13 ~ 
 
 #### fourth runner : chanul[https://github.com/char-null]
 
