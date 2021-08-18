@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1, h2, h3, p {
 	font-family:'Source Sans Pro';
 	font-weight: 300;
@@ -32,3 +33,39 @@ h1 {
 }
 
 
+=======
+h1, h2, h3, p {
+	font-family:'Source Sans Pro';
+	font-weight: 300;
+}
+.clearfix { clear:both; }
+p {
+	font-size:1.2em;
+}
+
+h1, h2, h3 {
+	font-size:3em;
+}
+
+#blue-container {
+	background:#000 url(../images/bg.png) repeat-x;
+	padding: 120px 0;
+}
+
+#gray-container {
+	background:#fff url(../images/bg2.png);
+	padding: 120px 0;
+	margin-top:310px;
+}
+
+
+.alc {
+	text-align:center;
+}
+
+h1 {
+	color:#fff;
+}
+
+
+>>>>>>> 9437485d4be8b2e23f7f58b982c2ab468a553298

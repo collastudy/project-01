@@ -3,6 +3,7 @@ import React from 'react';
 import Section from '../../../HOC/Section';
 import bgImage from '../../../assets/img/home_bg.jpg';
 import Link from '../../UI/Link/Link';
+import movingword from'../../../movingword.svg';
 
 const home = () => {
   return (
@@ -10,8 +11,14 @@ const home = () => {
       <div>
         <div
           className='home-content p-5'
+<<<<<<< HEAD
           style={{ backgroundImage: `url(${bgImage})` }}>
 
+=======
+          /*style={{ backgroundImage: `url(${bgImage})` }}*/
+    style = {{backgorundImage: 'url({$movingword.svg})'}}
+        >
+>>>>>>> 9437485d4be8b2e23f7f58b982c2ab468a553298
           <div className='intro container text-center text-light'>
             <h1 className='title'>COLLA</h1>
             <h2 className='sub-title mb-4'>
