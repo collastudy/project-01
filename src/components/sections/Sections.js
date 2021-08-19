@@ -8,12 +8,10 @@ import Blog from './Blog/Blog';
 import Contact from './Contact/Contact';
 import MapMarker from './MapMarker/MapMarker';
 import Gallerys from './Gallery/Gallerys';
-import Opening from './Opening/Opening';
 
 const sections = () => {
   return (
     <Fragment>
-      <Opening />
       <Home />
       <About />
       <Service />
