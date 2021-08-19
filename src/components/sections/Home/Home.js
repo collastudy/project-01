@@ -1,11 +1,9 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
-import bgImage from '../../../assets/img/home_bg.jpg';
-import openimg from '../../../assets/img/Opening.svg';
+// import bgImage from '../../../assets/img/home_bg.jpg';
 import Link from '../../UI/Link/Link';
 import styles from '../../../assets/img/style.css'
-import '../../../assets/open/Opening.js'
 
 const home = () => {
   return (
