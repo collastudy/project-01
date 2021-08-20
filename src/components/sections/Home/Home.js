@@ -9,7 +9,8 @@ const home = () => {
   return (
     <Section id='home'>
       <div>
-      <script src= 'Op'></script>
+      <script src= 'Op' ></script>
+
 
       <svg
       id="logo"
