@@ -1,0 +1,34 @@
+{
+  padding: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(32, 35, 48);
+}
+
+
+#logo{
+  position: absolute;
+  top: 45%;
+  left: 38%;
+}
+
+#logo path:nth-child(1){
+  stroke-dasharray: 580px;
+  stroke-dashoffset: 580px;
+  animation:line-anim 2s linear forwards;
+
+}
+
+
+
+@keyframes  line-anim {
+  to{
+  stroke-dashoffset: 0px;
+}
+
+}
